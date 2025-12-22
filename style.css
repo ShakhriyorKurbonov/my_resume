@@ -237,3 +237,19 @@ hr {
 		margin: 0 auto;
 	}
 }
+
+.portfolio-item {
+  margin-bottom: 40px;
+}
+
+.screenshots {
+  display: flex;
+  gap: 10px;
+  margin-bottom: 15px;
+}
+
+.screenshots img {
+  width: 120px;
+  height: auto;
+  border-radius: 8px;
+}
